@@ -1,7 +1,9 @@
-![GitHub Profile Banner](https://raw.githubusercontent.com/Pushprajs012/Pushprajs012/main/banner.png)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pushpraj%20Singh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Header" />
+</div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pushpraj+Singh;Android+%26+Flutter+Developer;APK+Reverse+Engineering+Enthusiast;Building+Amazing+Mobile+Apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Pushpraj+Singh;Android+%26+Flutter+Developer;APK+Reverse+Engineering+Enthusiast;Building+Amazing+Mobile+Apps!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/pushprajs012?label=Stars&style=for-the-badge&color=00D9FF" alt="stars" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 👨‍💻 About Me
 
@@ -244,7 +246,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushprajs012&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pushprajs012&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pushprajs012&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 <p align="center">
